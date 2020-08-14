@@ -1,0 +1,58 @@
+csssssssssssss
+.section5
+{
+    
+    background-color:white;
+    height:220px;
+    overflow: hidden;
+}
+.a 
+{
+    float:left;
+    margin-left:130px;
+    margin-top:50px;
+    font-weight:800;
+    font-family:"Poppins", sans-serif;
+    font-size:60px; 
+    color:#f43866;
+}
+.b , .d , .f
+{
+    border:0px solid black;
+    float:left; 
+    margin-left:-90px;
+    margin-top:130px;
+    padding-bottom:-n20px;
+    font-weight:600;
+    font-family:"Poppins", sans-serif;
+    font-size:22px;
+    color:#f43866;
+}
+.b::after
+{
+    content:'';
+    display:block;
+    width:4px;
+    height:4px;
+    color:aqua;
+}
+
+.c , .e
+{
+    float:left;
+    margin-left:350px;
+    margin-top:50px;
+    font-weight:800;
+    font-family:"Poppins", sans-serif;
+    font-size:60px;
+    color:#f43866;
+}
+htmllllllllll
+<div class="section5">
+            <h2 class="a">23</h2>
+            <p class="b">NOMINATIONS</p>
+            <h2 class="c">23</h2>
+            <p class="d">NOMINATIONS</p>
+            <h2 class="e">23</h2>
+            <p class="f">NOMINATIONS</p>
+        </div>    
